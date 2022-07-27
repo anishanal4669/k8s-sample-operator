@@ -1,0 +1,6 @@
+apiVersion: cache.anish.com/v1
+kind: coffee
+metadata:
+  name: coffee-sample-1
+spec:
+  size: 2
